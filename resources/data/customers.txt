@@ -1,0 +1,6 @@
+1::VISH::94387::vish@tesla.com::true::
+2::DJ::8356::Dj@google.com::true::
+3::Vishalji ODEDRA::239874::vishalji@gmail.com::false::
+4::DHANANJAY TEWARI::8759834::dhananjay@mail.com::false::
+5::ALEX::78346::alex@mail.com::false::
+6::JOSH::23247::josh@mail.com::false::

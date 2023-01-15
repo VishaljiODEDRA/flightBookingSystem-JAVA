@@ -1,0 +1,5 @@
+1::FLT001::delhi::mumbai::2023-01-08::2000.0::120::false::
+2::ABC::efh::sas::2023-10-09::23.0::2000::true::
+3::FLT004::Leeds::London::2023-01-15::25.0::150::false::
+4::FLT005::mumbai::pune::2023-01-17::20.0::120::false::
+5::FLT006::surat::thane::2023-01-20::50.0::90::false::
